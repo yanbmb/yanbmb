@@ -19,6 +19,7 @@
   Olá pessoal, esse é meu primeiro projeto, comecei a estudar sobre Python alguns meses atrás e tive algumas ideias que me ajudariam nas rotinas do escritório de contabilidade onde atualmente trabalho. Foi um desafio e tanto!... Obviamente, o código precisa ser melhorado e otimizado, pois eu fiz com os conhecimentos iniciais que obtive dos estudos, conforme fui avançado nos estudos, consegui ir melhorando algumas coisas, mas...ainda tem muito para melhorar! Essa é a meta, certo!?... 
 </p>
 
+
 ## Funcionalidades
 
 :heavy_check_mark: Extrator de NF3E  
