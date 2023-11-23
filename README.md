@@ -54,7 +54,8 @@
 
 ## Desenvolvedor
 
-[<img src="link da foto" width=115><br><sub>Yan Bernard Molino Barbosa</sub>](https://github.com/yanbmb)
+[<img src="https://avatars.githubusercontent.com/u/52461672?v=4" width=115><br><sub>Yan Bernard Molino Barbosa</sub>](https://github.com/yanbmb)
+
 
 ## Licença 
 
