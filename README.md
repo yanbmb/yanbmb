@@ -62,7 +62,6 @@
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2023 - Otimizador de rotinas contábeis
 
 
 
