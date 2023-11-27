@@ -60,7 +60,7 @@
 
 ## Licença 
 
-The [MIT License]() (MIT)
+The [MIT License](https://github.com/yanbmb/yanbmb/blob/main/LICENSE) (MIT)
 
 
 
